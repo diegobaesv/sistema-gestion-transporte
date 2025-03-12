@@ -35,6 +35,8 @@ El sistema de gestión de transporte es una aplicación web diseñada para optim
 - Integración con mapas para seguimiento
 
 ## Integrantes
- - Diego Alonso Espinoza Ortiz
- - Leslie Karina Virto Cueva
  - [Jose Carlos Yon](https://github.com/2017310708)
+
+## Diseño de la BD
+
+![bd_diagram](./docs/img/ER_Diagram.jpg)
