@@ -40,3 +40,6 @@ El sistema de gestión de transporte es una aplicación web diseñada para optim
 ## Diseño de la BD
 
 ![bd_diagram](./docs/img/ER_Diagram.jpg)
+
+
+commit prueba cambio
